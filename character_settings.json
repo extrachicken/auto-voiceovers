@@ -1,0 +1,75 @@
+{
+    "Максим": {
+        "voice_id": "3EuKHIEZbSzrHGNmdYsx",
+        "speed": 1,
+        "stability": 0.5,
+        "similarity_boost": 0,
+        "model_id": "eleven_turbo_v2_5"
+    },
+    "Директор": {
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+        "speed": 1,
+        "stability": 0.5,
+        "similarity_boost": 0,
+        "style": 0,
+        "use_speaker_boost": false,
+        "model_id": "eleven_multilingual_v2"
+    },
+    "Елена": {
+        "voice_id": "AB9XsbSA4eLG12t2myjN",
+        "speed": 1.0,
+        "stability": 0.4,
+        "similarity_boost": 0,
+        "model_id": "eleven_turbo_v2_5"
+    },
+    "Вы": {
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17",
+        "speed": 1.0,
+        "stability": 0.5,
+        "similarity_boost": 0,
+        "style": 0,
+        "use_speaker_boost": false,
+        "model_id": "eleven_multilingual_v2"
+    },
+    "Наставник": {
+        "voice_id": "iP95p4xoKVk53GoZ742B",
+        "speed": 1,
+        "stability": 0.5,
+        "similarity_boost": 0,
+        "style": 0,
+        "use_speaker_boost": true,
+        "model_id": "eleven_multilingual_v2"
+    },
+    "Александра": {
+        "voice_id": "8M81RK3MD7u4DOJpu2G5",
+        "speed": 1,
+        "stability": 0.4,
+        "similarity_boost": 0,
+        "model_id": "eleven_turbo_v2_5"
+    },
+    "Владимир": {
+        "voice_id": "gJEfHTTiifXEDmO687lC",
+        "speed": 1,
+        "stability": 0.5,
+        "similarity_boost": 0,
+        "model_id": "eleven_turbo_v2_5"
+    },
+    "Артур": {
+        "voice_id": "XRlny9TzSxQhHzOusWWe",
+        "speed": 1,
+        "stability": 0.5,
+        "similarity_boost": 0,
+        "model_id": "eleven_turbo_v2_5"
+    },
+    "Евгений": {
+        "voice_id": "pvY1pikBdoI4SB62vEVo",
+        "speed": 1,
+        "stability": 0.5,
+        "similarity_boost": 0,
+        "model_id": "eleven_turbo_v2_5"
+    }
+
+
+    
+
+}
